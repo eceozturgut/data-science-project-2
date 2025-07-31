@@ -9,7 +9,7 @@ def connect_db():
     host="localhost",
     port=5432,
     database="postgres",
-    user="postgres",
+    user="Ece",
     password=password)
     return conn
 
